@@ -1,0 +1,50 @@
+{
+    "pz_return_timeout": 1.0,
+    "key_pz": "",
+    "key_pa": "q",
+    "key_sing": "",
+    "key_skill": "1123456789",
+    "key_swap": "q",
+    "cast_detection_pixel": {
+        "relative_x": 883,
+        "relative_y": 704,
+        "color": [
+            49,
+            198,
+            149
+        ]
+    },
+    "pz_set_icon_pixel": {
+        "relative_x": 707,
+        "relative_y": 833,
+        "color": [
+            148,
+            10,
+            74
+        ]
+    },
+    "selected_window_hwnd": 2492782,
+    "selected_window_name": "\u0411\u0443\u0431\u0440\u0443\u0443\u0441\u044f (WF, 105)",
+    "sing_key": "",
+    "swap_key": "q",
+    "attack_skill_key": "1",
+    "end_swap_pixel": {
+        "relative_x": 997,
+        "relative_y": 716,
+        "color": [
+            20,
+            44,
+            57
+        ]
+    },
+    "attack_keys": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+    ],
+    "swap_apply_delay": 0.1,
+    "attack_bindings": {}
+}
